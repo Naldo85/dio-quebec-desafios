@@ -1,1 +1,1 @@
-# dio-queb-c-desafios
+# dio-quebec-desafios
