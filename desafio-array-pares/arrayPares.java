@@ -1,6 +1,6 @@
 // Abaixo segue um exemplo de código que você pode ou não utilizar:
 
-public class App {
+public class arrayPares {
     public static void main(String[] args){
 
 // TODO: Crie um Array de números inteiros:
