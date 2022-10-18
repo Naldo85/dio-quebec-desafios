@@ -15,12 +15,13 @@
 
 
 - ## Desafio - Reduzindo um numero a zero
--
+- ![Desafio_1](https://user-images.githubusercontent.com/82780957/196565010-4d8ed9da-dffd-4f30-be19-96d40d716b0e.png)
 
 
 - ## Desafio - Robô
--
+- ![Desafio_2](https://user-images.githubusercontent.com/82780957/196565050-8b14bf59-6952-48c2-94ff-2714d02b7640.png)
 
 
 - ## Desafio - Contando números pares
--
+- ![Desafio_3](https://user-images.githubusercontent.com/82780957/196565077-08bde41b-3464-4510-b063-ed2624ed9e6f.png)
+
